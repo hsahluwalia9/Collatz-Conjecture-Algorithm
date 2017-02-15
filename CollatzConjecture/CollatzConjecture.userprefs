@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6207FBC6-4F40-4BA5-B77F-98C580BB180A}|Default">
+  <MonoDevelop.Ide.ItemProperties.CollatzConjecture PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CollatzConjecture/Program.cs">
+    <Files>
+      <File FileName="CollatzConjecture/Program.cs" Line="12" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
